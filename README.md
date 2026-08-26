@@ -1,2 +1,2 @@
 # Qwerty
-github-practice
+I'm very new to this and im trying to learn github
